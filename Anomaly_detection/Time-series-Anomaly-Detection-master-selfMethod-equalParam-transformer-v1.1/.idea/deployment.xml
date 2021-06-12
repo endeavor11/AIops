@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="p100" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="p100">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/zsxzsx/work/VFL/transformer/transEqualParam" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

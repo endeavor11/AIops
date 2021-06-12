@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55fd6925-e64e-4e8d-a097-3eca370f65e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="JupyterTrust" id="e3a687a7-c6eb-4015-bbd4-3d82ba14bb56" />
+  <component name="ProjectId" id="1fIQHzkbCXZZc61MTDNKhbxNvQI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="RNN-Time-series-Anomaly-Detection-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55fd6925-e64e-4e8d-a097-3eca370f65e2" name="Default Changelist" comment="" />
+      <created>1595903042374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595903042374</updated>
+      <workItem from="1599996822972" duration="191000" />
+      <workItem from="1600135516447" duration="684000" />
+      <workItem from="1600344501889" duration="4277000" />
+      <workItem from="1600358863798" duration="1744000" />
+      <workItem from="1600513739485" duration="7816000" />
+      <workItem from="1600565359464" duration="904000" />
+      <workItem from="1600569097175" duration="299000" />
+      <workItem from="1600571410158" duration="25000" />
+      <workItem from="1600579514716" duration="792000" />
+      <workItem from="1600591606625" duration="546000" />
+      <workItem from="1600592661637" duration="81000" />
+      <workItem from="1600592785945" duration="2340000" />
+      <workItem from="1600597265167" duration="3279000" />
+      <workItem from="1601019068656" duration="1528000" />
+      <workItem from="1601295831806" duration="703000" />
+      <workItem from="1601347128942" duration="8010000" />
+      <workItem from="1601383188078" duration="7117000" />
+      <workItem from="1601393716690" duration="5677000" />
+      <workItem from="1612629182302" duration="1132000" />
+      <workItem from="1612680199625" duration="32000" />
+      <workItem from="1612680242631" duration="73000" />
+      <workItem from="1612680322779" duration="34000" />
+      <workItem from="1612680369173" duration="1354000" />
+      <workItem from="1618647597374" duration="418000" />
+      <workItem from="1619337827854" duration="3267000" />
+      <workItem from="1619352890824" duration="4000" />
+      <workItem from="1619402369985" duration="169000" />
+      <workItem from="1619404109333" duration="1000" />
+      <workItem from="1619406872790" duration="89000" />
+      <workItem from="1620220851471" duration="2958000" />
+      <workItem from="1620529834251" duration="41000" />
+      <workItem from="1620564372509" duration="15000" />
+      <workItem from="1620735807246" duration="240000" />
+      <workItem from="1620736201650" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
