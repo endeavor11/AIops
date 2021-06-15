@@ -58,10 +58,9 @@ __2. Anomaly detection:__
 Fit multivariate gaussian distribution and
 calculate anomaly scores on a time-series testset
 
-```
+```python
 CUDA_VISIBLE_DEVICES=1  python 2_2_anomaly_detection_FL.py   --data SMD_1_3_10dim_E   --filename machine-1-3_10dim.pkl   --prediction_window_size 50 --index 1st
 ```
-
 
 ## Result
 
